@@ -14,3 +14,5 @@
 /**/node_modules/
 !/javascriptsource/**/node_modules/
 /nativemobile/builds/
+/mx-esignatures-connector.mpr.bak
+/mx-esignatures-connector.mpr.lock
