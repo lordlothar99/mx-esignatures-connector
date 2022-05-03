@@ -1,2 +1,2 @@
-# mx-esignatures-connector
-Mendix integration with e-signatures.io
+# mx-signeasy-connector
+Mendix integration with SignEasy.com
