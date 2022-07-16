@@ -1,1 +1,11 @@
 @import "custom-variables";
+
+.horizontal-list {
+    & ul {
+        display: flex;
+        & > li {
+            border-top: 1px solid $border-color-default;
+            border-bottom: 1px solid $border-color-default;
+        }
+    }
+}

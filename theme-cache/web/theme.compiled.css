@@ -23323,4 +23323,12 @@ div:not(.table-compact) > .table .th .dropdown-container .dropdown-list {
   border-width: 0;
 }
 
+.horizontal-list ul {
+  display: flex;
+}
+.horizontal-list ul > li {
+  border-top: 1px solid #ced0d3;
+  border-bottom: 1px solid #ced0d3;
+}
+
 /*# sourceMappingURL=theme.compiled.css.map */
